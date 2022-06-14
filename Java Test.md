@@ -21,7 +21,7 @@ Ans: 2 ![](assets/java_execution_flow.png)
   - 1.char a = '中';
   - 2.char b = 'b';
   - 3.char c = '\t';
-  - 4.char d = '-98';
+  - 4.char d = -98;
 
 Ans: 4 char變量不能爲負值。字符數據類型的範圍爲0到65535
 
