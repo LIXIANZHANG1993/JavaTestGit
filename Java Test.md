@@ -61,10 +61,10 @@ Ans: 2, record class並不會生成 setter()方法，紀錄類別在語義上，
         System.out.println("sum:" + sum);
     }
   ```
-  - 1.a = 11, b = 10, sum = 21
+  - 1.a = 11, b = 10, sum = 20
   - 2.a = 11, b = 10, sum = 21
   - 3.a = 10, b = 10, sum = 20
-  - 4.a = 10, b = 10, sum = 20
+  - 4.a = 10, b = 10, sum = 21
 
 Ans: 1 , 此程式碼中，a 會先用後加，故結果為20 ，而 a 為 11
 
